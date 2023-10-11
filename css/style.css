@@ -1,0 +1,21 @@
+body {
+	background-image: url("../img/spacebkg.gif");
+}
+table{
+  color: LightSteelBlue;
+}
+td, th {
+	border: 1px solid;
+  text-align: center;
+  }
+h1,h2,h3,h4{
+  color: LightSteelBlue;
+  font-family: 'Chakra Petch', sans-serif;
+  font-size: 3em;
+}
+#view{ 
+height:200px;
+width:200px;
+object-fit: fill;
+}
+   
