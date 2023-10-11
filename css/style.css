@@ -11,13 +11,23 @@ body {
 h1,h2,h3,h4{
   color: #b3b3b3;
   font-family: 'Chakra Petch', sans-serif;
-  font-size: 3em;
   font-family: 'Chakra Petch', sans-serif;
+}
+h1{
+  font-size: 3em;
+}
+h2{
+  font-size: 2em;
 }
 .p1{
   color: #808080;
   font-size: 26px;
   font-family: 'Urbanist', sans-serif;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
 /* Table Style */
 #planets{
@@ -42,4 +52,3 @@ tr:nth-child(odd){
   width:200px;
   object-fit: fill;
 }
-   
